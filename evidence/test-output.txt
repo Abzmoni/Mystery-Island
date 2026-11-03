@@ -1,0 +1,24 @@
+test_cannot_win_outside_lighthouse (test_game.GameTests.test_cannot_win_outside_lighthouse) ... ok
+test_final_move_loses_even_on_arrival_at_lighthouse (test_game.GameTests.test_final_move_loses_even_on_arrival_at_lighthouse) ... ok
+test_finished_game_rejects_every_action (test_game.GameTests.test_finished_game_rejects_every_action) ... ok
+test_information_is_free (test_game.GameTests.test_information_is_free) ... ok
+test_lantern_collected_once (test_game.GameTests.test_lantern_collected_once) ... ok
+test_normalization_and_exit (test_game.GameTests.test_normalization_and_exit) ... ok
+test_t10_new_game_resets_independent_inventory (test_game.GameTests.test_t10_new_game_resets_independent_inventory) ... ok
+test_t1_new_game (test_game.GameTests.test_t1_new_game) ... ok
+test_t2_invalid_commands_do_not_mutate_state (test_game.GameTests.test_t2_invalid_commands_do_not_mutate_state) ... ok
+test_t3_move_costs_exactly_one (test_game.GameTests.test_t3_move_costs_exactly_one) ... ok
+test_t4_wrong_direction_is_free (test_game.GameTests.test_t4_wrong_direction_is_free) ... ok
+test_t5_rope_collected_once (test_game.GameTests.test_t5_rope_collected_once) ... ok
+test_t6_bridge_requires_rope (test_game.GameTests.test_t6_bridge_requires_rope) ... ok
+test_t7_beacon_requires_lantern (test_game.GameTests.test_t7_beacon_requires_lantern) ... ok
+test_t8_complete_winning_path (test_game.GameTests.test_t8_complete_winning_path) ... ok
+test_t9_exhaustion_and_no_negative_energy (test_game.GameTests.test_t9_exhaustion_and_no_negative_energy) ... ok
+test_blank_name_and_end_of_input (test_game.TerminalTests.test_blank_name_and_end_of_input) ... ok
+test_losing_terminal_path (test_game.TerminalTests.test_losing_terminal_path) ... ok
+test_win_with_invalid_input_and_replay_reset (test_game.TerminalTests.test_win_with_invalid_input_and_replay_reset) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.097s
+
+OK

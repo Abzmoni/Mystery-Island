@@ -1,0 +1,63 @@
+INPUTS
+'Ada'
+'go east'
+'go west'
+'go east'
+'go west'
+'go east'
+'n'
+
+OUTPUT
+MYSTERY ISLAND — The Lost Lighthouse
+Restore the beacon before your energy runs out.
+Choose a menu number or type its command. Type quit or exit to stop.
+Every legal move costs 1 energy; at 0 you lose immediately.
+Pickups, inventory, help, and rejected commands cost no energy.
+What is your name? 
+Welcome, Ada! You wake up after a storm.
+
+Beach | Energy: 5/5
+Storm wreckage covers the sand. A trail leads east into the jungle.
+  1. go east
+  2. inventory
+  3. help
+  4. quit
+> You arrive at Jungle.
+
+Jungle | Energy: 4/5
+A sturdy rope hangs from a branch. The cave lies east.
+  1. go west
+  2. go east
+  3. take rope
+  4. inventory
+  5. help
+  6. quit
+> You arrive at Beach.
+
+Beach | Energy: 3/5
+Storm wreckage covers the sand. A trail leads east into the jungle.
+  1. go east
+  2. inventory
+  3. help
+  4. quit
+> You arrive at Jungle.
+
+Jungle | Energy: 2/5
+A sturdy rope hangs from a branch. The cave lies east.
+  1. go west
+  2. go east
+  3. take rope
+  4. inventory
+  5. help
+  6. quit
+> You arrive at Beach.
+
+Beach | Energy: 1/5
+Storm wreckage covers the sand. A trail leads east into the jungle.
+  1. go east
+  2. inventory
+  3. help
+  4. quit
+> You lose: your energy ran out before rescue arrived.
+
+Play again? (y/n): Thanks for exploring Mystery Island!
